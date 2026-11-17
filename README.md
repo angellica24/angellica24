@@ -1,125 +1,133 @@
-# Hi, I'm Angellica Ivana! 👋
+# Angellica Ivana
 
-### Information Systems Student | Aspiring Data Analyst & Business Analyst
+**Information Systems Undergraduate | Aspiring Data Analyst & Business Analyst**
 
-I am an Information Systems undergraduate at Universitas Esa Unggul, Jakarta, with a GPA of 3.98/4.00.
+I am an Information Systems undergraduate at Universitas Esa Unggul, Jakarta. I am interested in data analytics, business analysis, and the application of technology to solve business problems and support informed decision-making.
 
-I have a strong interest in Data Analytics, Business Analysis, Business Process Improvement, and Information Systems Development.
+Through academic and individual projects, I have developed experience in data processing, database management, business process analysis, system requirements documentation, and web application development.
 
-Through academic projects, I have gained experience in data processing, database management, business process analysis, system requirements documentation, and application development.
-
-I am passionate about learning new technologies, analyzing problems, and developing practical solutions through data and information systems.
+I enjoy exploring data, understanding business processes, and transforming ideas into practical solutions through technology.
 
 ---
 
-## 🎓 Education
+## Education
 
 **Universitas Esa Unggul, Jakarta**
 
 - Bachelor's Degree in Information Systems
-- GPA: 3.98/4.00
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 **Data Analytics & Database**
 - Microsoft Excel
-- Python
-- MySQL
+- SQL (MySQL)
+- Python (Pandas)
 - Pentaho Data Integration
 - Google Colab
 
-**Business & System Analysis**
+**Business & Systems Analysis**
 - Business Process Analysis
-- Requirements Analysis
+- Business Requirements Analysis
 - BPMN
 - UML
 - Data Flow Diagram (DFD)
 - Entity Relationship Diagram (ERD)
 
-**Development & Design Tools**
-- Visual Studio Code
-- draw.io
-- Figma
-- PlantUML
-- Laravel
+**Web Development & Design**
 - PHP
-- HTML
-- CSS
-- JavaScript
+- Laravel
+- HTML, CSS, JavaScript
+- Figma
+- draw.io
+- PlantUML
+- Visual Studio Code
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
-### 1. Arabica Coffee Data Warehouse
-**Role:** Academic Team Project
+### 1. Oven & Co. – Information Systems Implementation Project
 
-A data warehouse project focused on analyzing Arabica coffee producer prices across districts and cities in West Java from 2021 to 2025.
+**Project Type:** Academic Team Project  
+**Status:** In Progress
 
-**Tools & Technologies:** Python, Pandas, MySQL, Pentaho Data Integration, and Google Colab.
+An ongoing academic group project developed as part of an Information Systems Implementation course, using Oven & Co. as the business case study.
+
+The project involves applying information systems concepts to a business context, with the team working on the development and implementation of the proposed solution.
 
 **Project Highlights:**
-- Contributed to assigned tasks in a team-based data warehouse project.
-- The project dataset consisted of 1,620 records across 27 districts/cities.
-- Team deliverables included ETL processes, MySQL star schema, data aggregation, and an analytical dashboard.
+- Collaborative work on an academic information systems project.
+- Application of information systems implementation concepts to a business case.
+- Ongoing project development and documentation.
+
+*Project details and deliverables will be updated as the project progresses.*
 
 ### 2. PadelSpot – Court Booking System
-**Role:** Individual Academic Project
 
-An individual project focused on analyzing business processes and designing an information system for a padel court booking service.
+**Project Type:** Individual Academic Project
 
-**Tools & Technologies:** Figma, draw.io, BPMN, UML, DFD, and ERD.
+An individual information systems project focused on analyzing business processes and designing a digital booking solution for a padel court service.
+
+**Tools & Technologies:** Figma, draw.io, BPMN, UML, DFD, ERD.
 
 **Project Highlights:**
 - Analyzed existing (As-Is) and proposed (To-Be) business processes.
-- Designed system requirements and business workflows.
-- Created system diagrams and a 33-screen interactive prototype.
-- Designed interfaces for customers, administrators, and business owners.
+- Identified business requirements and designed system workflows.
+- Developed system models and supporting documentation.
+- Created a 33-screen interactive prototype for customers, administrators, and business owners.
 
 ### 3. RabbitCare – Rabbit Clinic Management System
-**Role:** Academic Team Project
 
-A team-based project focused on designing an information system for rabbit clinic and care management.
+**Project Type:** Academic Team Project
 
-**Tools & Technologies:** HTML, CSS, JavaScript, and PlantUML.
+A collaborative project focused on designing an information system to support rabbit clinic and care management operations.
+
+**Tools & Technologies:** HTML, CSS, JavaScript, PlantUML.
 
 **Project Highlights:**
-- Collaborated with the team on business and system requirements analysis.
+- Collaborated on business and system requirements analysis.
 - Contributed to BRD, MRD, PRD, and SRD documentation.
 - Worked on system modeling and UML diagrams.
-- Contributed to an interactive prototype demonstrating clinic management workflows.
+- Contributed to an interactive prototype representing clinic management workflows.
 
 ### 4. Lumiere Beauty Clinic – Web-Based Management System
-**Role:** Academic Team Project | Membership Module
 
-A web-based beauty clinic management application developed as a team project, with my contribution focused on the Membership page/module.
+**Project Type:** Academic Team Project  
+**Individual Contribution:** Membership Module
 
-**Tools & Technologies:** Laravel, PHP, and MySQL.
+A Laravel-based web application developed collaboratively to support beauty clinic operations, including treatment bookings, payment confirmation, promotions, and membership management.
 
-**Project Highlights:**
-- Contributed to the development of the Membership module.
-- Worked on membership-related functionality within the team-developed application.
-- Gained practical experience in web application development and team collaboration.
+**Tools & Technologies:** Laravel, PHP, MySQL.
+
+**My Contributions:**
+- Developed the homepage membership section presenting four membership tiers: Bronze, Silver, Gold, and Platinum.
+- Developed the customer-facing My Points page to display membership levels, accumulated points, and point transaction history.
+- Implemented membership point calculation and transaction recording.
+- Integrated point awarding with the booking payment status workflow.
+- Implemented duplicate transaction prevention, point expiry handling, and automatic membership-level synchronization.
+
+**Repository:** [Lumiere Beauty Membership System](https://github.com/angellica24/lumiere-beauty-membership-system)
 
 ---
 
-## 🎯 Career Interests
+## Areas of Interest
 
-- Data Analyst
-- Business Analyst
-- System Analyst
+- Data Analytics
+- Business Analysis
 - Business Intelligence
+- Business Process Improvement
+- Information Systems Development
 
 ---
 
-## 📫 Let's Connect!
+## Connect With Me
 
-- GitHub: https://github.com/angellica24
-- LinkedIn: [Angellica Ivana](https://www.linkedin.com/in/angellica-ivana/)
-- Email: angellicaivana27@gmail.com
+- **LinkedIn:** [Angellica Ivana](https://www.linkedin.com/in/angellica-ivana/)
+- **GitHub:** [github.com/angellica24](https://github.com/angellica24)
+- **Email:** angellicaivana27@gmail.com
 
 ---
 
-*Always learning, exploring, and building new things.*
+*Continuously learning, analyzing, and developing practical solutions through data and technology.*
