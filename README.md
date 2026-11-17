@@ -35,10 +35,12 @@ I enjoy exploring data, understanding business processes, and transforming ideas
 - Data Flow Diagram (DFD)
 - Entity Relationship Diagram (ERD)
 
-**Web Development & Design**
+**Web Development**
 - PHP
 - Laravel
 - HTML, CSS, JavaScript
+
+**Design & Development Tools**
 - Figma
 - draw.io
 - PlantUML
